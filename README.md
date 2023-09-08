@@ -1,5 +1,6 @@
 # Bobusang Algorithm Demo
-
+### Team: 무궁화맨숀
+### Service: Bobusang
 ## Objectivs
 Identify the most revenue-optimal route for food truck operators!!
 
@@ -31,6 +32,12 @@ To calculate the weight of each edge accurately, it's essential to determine the
  <img width="600px" src="algorithm_demo.gif" align="center" alt="Path planning illustration" />
   <figcaption>Fig. 1: Revenue optimized path.</figcaption>
 </p>
+
+<p align="center">
+ <img width="600px" src="graph_illustration.png" align="center" alt="Graph illustration" />
+  <figcaption>Fig. 2: Graph illustration.</figcaption>
+</p>
+
 
 # Ref
 [1] https://developers.kakaomobility.com/
